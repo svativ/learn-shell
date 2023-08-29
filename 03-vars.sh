@@ -1,3 +1,4 @@
+# variables
 a=10
 echo a is $a
 
@@ -13,4 +14,7 @@ echo Today Date is $DATE
 #Arithemetic substitution
 ADD=$((2+2))
 echo ADD of 2+2 = $ADD
+
+#Access environment variables
+echo Username - $USER
 
