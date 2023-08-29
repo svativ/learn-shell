@@ -3,7 +3,6 @@
 Shell Scripting , We learn Bash Shell Scripting
 
 List of Topics:	
-
  1. Comments
  2. Print
  3. Variables
