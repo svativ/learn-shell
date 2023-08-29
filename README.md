@@ -8,5 +8,7 @@ List of Topics:
 5. Conditions
 6. Loops
 7. Exit Status & Redirectors & Quotes
-8. SED Editor 
+8. SED Editor
+
+
 
