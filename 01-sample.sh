@@ -1,4 +1,3 @@
-
 ls
 ls -ltr
 uname
